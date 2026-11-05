@@ -4,7 +4,7 @@
 
 Weather In Motion permite consultar las condiciones meteorológicas actuales y los pronósticos de distintas ciudades, mediante una interfaz moderna, intuitiva y adaptable a dispositivos móviles.
 
-🌐 **Demo en vivo:** https://weather-in-motion.vercel.app/
+🌐 **Demo en vivo:** https://weather-in-motion-kappa.vercel.app/
 
 📦 **Repositorio:** https://github.com/diegolealirrazabal1891-boop/weather-in-motion
 
